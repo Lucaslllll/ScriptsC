@@ -1,0 +1,3 @@
+
+char* connects(string url);
+
